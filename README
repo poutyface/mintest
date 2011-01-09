@@ -1,3 +1,6 @@
+Sample
+======
+
 #include <stdio.h>
 #include "mintest.h"
 
@@ -32,3 +35,12 @@ int main()
   mt_result();
   return 0;
 }
+
+
+Result
+=======
+
+Assertion faild: test/mintest_test.c:17 (i == 1) should be fail i=0
+
+2 tests, 2 assertions, 1 failers
+
